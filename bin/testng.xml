@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AnujamTestSuite">
+
+	<test name="PatientAccessGroup" allow-return-values="true">  <!-- A group of test classes belongs in test node -->
+		<parameter name="url" value="https://login.yahoo.com" />
+		<parameter name="emailID" value="mailanujam@ymail.com" />
+		<classes>
+			<class
+				name="com.datadriven.test.ParameterizedTestV2">
+			</class>
+		</classes>
+	</test>
+</suite>

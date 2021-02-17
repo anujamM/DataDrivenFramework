@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AnujamTestSuite]">
+  <parameter name="emailID" value="mailanujam@ymail.com"/>
+  <parameter name="url" value="https://login.yahoo.com"/>
+  <test name="PatientAccessGroup">
+    <parameter name="emailID" value="mailanujam@ymail.com"/>
+    <parameter name="url" value="https://login.yahoo.com"/>
+    <classes>
+      <class name="com.datadriven.test.ParameterizedTestV2"/>
+    </classes>
+  </test> <!-- PatientAccessGroup -->
+</suite> <!-- Failed suite [AnujamTestSuite] -->
