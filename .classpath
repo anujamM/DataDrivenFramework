@@ -23,6 +23,5 @@
 	<classpathentry kind="lib" path="C:/Eclipse_Oxy/Selenium JARs/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/Eclipse_Oxy/Selenium JARs/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Eclipse_Oxy/eclipse-jee-oxygen-3a-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.9.10.201512240000/lib/testng.jar" sourcepath="C:/Eclipse_Oxy/eclipse-jee-oxygen-3a-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.9.10.201512240000/lib/testng-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
